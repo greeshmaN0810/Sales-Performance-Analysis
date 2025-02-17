@@ -1,6 +1,8 @@
 # Sales-Performance-Analysis
 ## Sales Dashboard
 
+### Tableau Public Dashboard Link : https://public.tableau.com/app/profile/greeshma.namana/viz/SalesPerformanceAnalysis_17398332353300/SalesDashboard?publish=yes 
+
 ### Introduction
 This project involves developing an interactive Sales Dashboard in Tableau to help stakeholders, including sales managers and executives, analyze sales performance effectively. The dashboard provides key insights into year-over-year sales trends, product subcategory performance, and weekly sales fluctuations, enabling data-driven decision-making.
 
