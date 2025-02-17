@@ -1,5 +1,4 @@
 # Sales-Performance-Analysis
-## Sales Dashboard
 
 ### Tableau Public Dashboard Link : 
 https://public.tableau.com/app/profile/greeshma.namana/viz/SalesPerformanceAnalysis_17398332353300/SalesDashboard?publish=yes 
